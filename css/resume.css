@@ -4,9 +4,9 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 body {
-  font-family: 'Open Sans', serif;
-  padding-top: 54px;
-  color: #868e96; }
+  font-family: 'Lato';
+  padding-top: 45px;
+  color: #958696; }
 
 @media (min-width: 992px) {
   body {
@@ -19,39 +19,39 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
-  font-weight: 700;
+  font-family: 'Lato';
+  font-weight: 500;
   text-transform: uppercase;
   color: #343a40; }
 
 h1 {
-  font-size: 6rem;
-  line-height: 5.5rem; }
+  font-size: 4rem;
+  line-height: 5rem; }
 
 h2 {
   font-size: 3.5rem; }
 
 .subheading {
   text-transform: uppercase;
-  font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-weight: 400;
+  font-family: 'Lato';
   font-size: 1.35rem; }
 
 .list-social-icons a {
   color: #495057; }
   .list-social-icons a:hover {
-    color: #BD5D38; }
+    color: #868e96; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #BD5D38; }
+    color: rgb(54, 11, 45); }
 
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 600;
-  text-transform: uppercase; }
+  font-weight: 500;
+  text-transform: none; }
 
 @media (min-width: 992px) {
   #sideNav {
@@ -104,12 +104,13 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #BD5D38 !important; }
+  background-image: url("tlo.jpg");
+  background-color:#825983b6 !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: rgb(27, 17, 29) !important; }
 
 a {
-  color: #BD5D38; }
+  color: rgb(218, 156, 194); }
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color: #461047; }
